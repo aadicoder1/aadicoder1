@@ -41,32 +41,12 @@ Cloud & DevOps
 
 
 
-📌 Featured Projects (Minimal Style)
-🔹 TradeSafe — Full-Stack E-Commerce Classifier
 
-A complete journey from backend → frontend → deployment → documentation.
-
-🔹 SocioSphere — Community Issue Reporting
-
-User + NGO dashboards
-
-Events posting
-
-Google Maps integration
-
-Admin panel
-
-Email notifications
-
-Horizontal posts UI
-
-Clean DB structure
-(Still evolving)
 
 📈 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aadi-sahu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadi-sahu&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi-sahu&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aadicoder1&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadicoder1&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadicoder1&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p>
 🕶️ 3D Contribution Snake (Dark Mode)
-<p align="center"> <img src="https://raw.githubusercontent.com/aadi-sahu/aadi-sahu/output/github-contribution-grid-snake-dark.svg" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/aadicoder1/aadicoder1/output/github-contribution-grid-snake-dark.svg" /> </p>
 🎯 2025 Roadmap
 
 Master Java + DSA
@@ -82,4 +62,4 @@ Deploy apps using Docker + CI/CD
 Learn System Design fundamentals
 
 🌐 Connect With Me
-<p> <a href="https://github.com/aadi-sahu"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:aadityas70@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+<p> <a href="https://github.com/aadicoder1"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:aadityasahu1203@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
