@@ -1,5 +1,5 @@
 Aaditya Sahu — Developer | Java & Cloud Enthusiast
-<p align="center"> <img src="https://i.imgur.com/8MupZHY.gif" width="500" alt="Coding GIF"/> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=700&color=00F0FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Aaditya+Kumar+Sahu+%F0%9F%91%8B;Developer+%7C+Java+%7C+Cloud+%7C+Full+Stack;I+Build+Clean+Code+%2B+Useful+Projects;Always+Learning+Something+New" /> </p>
+<p align="center"> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=700&color=00F0FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Aaditya+Kumar+Sahu+%F0%9F%91%8B;Developer+%7C+Java+%7C+Cloud+%7C+Full+Stack;I+Build+Clean+Code+%2B+Useful+Projects;Always+Learning+Something+New" /> </p>
 🧑‍💻 About Me
 
 A passionate developer who loves clean code, problem solving, and building projects end-to-end.
