@@ -2,7 +2,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/aadicoder1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Aaditya+Kumar+Sahu;Full-Stack+Web+Developer;Python+%7C+Flask+%7C+Django+%7C+FastAPI;01100010+01110101+01101001+01101100+01100100+01100101+01110010" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Aaditya+Kumar+Sahu;Full-Stack+Web+Developer+%7C+AI+ML;Python+%7C+Flask+%7C+Django+%7C+FastAPI;Problem Solver (JAVA)" alt="typing banner">
 </a>
 
 <br>
@@ -29,10 +29,8 @@ $ cat about.txt
 Hi, I'm **Aaditya Kumar Sahu**. I build full-stack web apps using Python and its ecosystem,
 and I learn by shipping real things — not just following tutorials.
 
-- Currently finishing **[KMRL SmartDocs](https://github.com/aadicoder1/KMRL_DMS)** — an AI-powered multilingual document intelligence system
 - Portfolio: **[aadicoder1.netlify.app](https://aadicoder1.netlify.app)**
 - Learning **Java + Spring Boot**
-- Fun fact: **I got into coding through a free bootcamp after 12th — best decision I made.**
 
 ---
 
