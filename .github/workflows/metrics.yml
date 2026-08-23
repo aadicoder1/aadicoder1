@@ -1,29 +1,76 @@
-name: Generate Metrics
-
+name: Metrics
 on:
   schedule:
-    - cron: "0 */6 * * *"    # runs every 6 hours
-  workflow_dispatch:           # lets you trigger it manually from GitHub Actions tab
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
   push:
-    branches:
-      - main
-
+    branches: [main]
+permissions:
+  contents: write
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - name: Generate isometric calendar
+      # ------------------------------------------------------------------ #
+      # Stat cards (self-hosted, replaces github-readme-stats)
+      # ------------------------------------------------------------------ #
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate stat cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python scripts/cards.py --user aadicoder1 --out assets
+
+      - name: Commit stat cards
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update stat cards"
+          file_pattern: assets/card-stats-*.svg
+
+      # ------------------------------------------------------------------ #
+      # 3D isometric contribution calendar
+      # ------------------------------------------------------------------ #
+      - name: Isometric contribution calendar
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: aadicoder1
+          filename: assets/metrics.isocalendar.svg
           base: ""
+          config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          filename: metrics.isocalendar.svg
-          committer_branch: output
-          committer_message: "chore: update isometric calendar"
-          output_action: commit
+
+      # ------------------------------------------------------------------ #
+      # Language breakdown
+      # ------------------------------------------------------------------ #
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: aadicoder1
+          filename: assets/metrics.languages.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+
+      # ------------------------------------------------------------------ #
+      # Achievement badges
+      # ------------------------------------------------------------------ #
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: aadicoder1
+          filename: assets/metrics.achievements.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 0
