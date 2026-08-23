@@ -12,6 +12,7 @@
 <a href="mailto:aadityasahu1203@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://aadicoder1.netlify.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
 <a href="https://leetcode.com/u/aadicoder1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://codeforces.com/profile/aadityasahu1203"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
 
 <img src="https://komarev.com/ghpvc/?username=aadicoder1&style=flat&color=39d353&label=profile+views" alt="profile views">
 
