@@ -2,7 +2,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/aadicoder1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Aaditya+Kumar+Sahu;Full-Stack+Web+Developer+%7C+AI+ML;Python+%7C+Flask+%7C+Django+%7C+FastAPI;Problem Solver (JAVA)" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Aaditya+Kumar+Sahu;Full-Stack+Web+Developer+%7C+AI+ML;Python+%7C+Flask+%7C+Django+%7C+FastAPI;Problem+Solver+(JAVA)" alt="typing banner">
 </a>
 
 <br>
@@ -73,14 +73,11 @@ and I learn by shipping real things — not just following tutorials.
 
 <br><br>
 
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
 
 </div>
 
 ---
 
 <div align="center">
-
-<sub>`01000010 01110101 01101001 01101100 01100100 01101001 01101110 01100111 00100000 01101111 01101110 01100101 00100000 01100011 01101111 01101101 01101101 01101001 01110100 00100000 01100001 01110100 00100000 01100001 00100000 01110100 01101001 01101101 01100101`</sub>
 
 </div>
