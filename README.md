@@ -38,11 +38,6 @@ and I learn by shipping real things — not just following tutorials.
 
 ## `~/` contribution calendar
 
-<!-- 3D isometric calendar -->
-<img src="https://raw.githubusercontent.com/aadicoder1/aadicoder1/output/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
-
-<br><br>
-
 <!-- Snake eats the contribution graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/aadicoder1/aadicoder1/output/snake-dark.svg">
